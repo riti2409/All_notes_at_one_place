@@ -18,4 +18,6 @@ Link for all the notes shared till now :
 
 - 8. C++ STL - https://lnkd.in/dUXsz43B
 
+- 9. CN - https://www.linkedin.com/feed/update/urn:li:activity:6904693012644147201/
+
 ** Resources for preparation of placements-https://lnkd.in/d6zpHj4P **
