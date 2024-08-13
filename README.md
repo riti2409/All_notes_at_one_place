@@ -2,22 +2,24 @@
 
 Link for all the notes shared till now : 
 
-- 1. DP notes - https://lnkd.in/dm4ufFzU
+- Dynamic Programming notes - https://github.com/riti2409/Dynamic-Programming-Notes 
 
-- 2. OOPS notes - https://lnkd.in/dYxmy3Rk
+- OOPS notes - https://github.com/riti2409/OOPS_NOTES 
 
-- 3. DBMS/SQL notes - https://lnkd.in/dE9-xfBA
+- DBMS/SQL notes - https://github.com/riti2409/DBMS_SQL-Notes 
 
-- 4. Programming in C/C++ - https://lnkd.in/dA2eAXbM
+- Programming in C/C++ - https://github.com/riti2409/Programming_with_C_and_Cplus-plus 
 
-- 5. Git/GitHub- https://lnkd.in/d-84pa9e
+- Git/GitHub- https://github.com/riti2409/Git-GitHub 
 
-- 6. HTML/CSS/JavaScript -https://lnkd.in/dQXfVQrb
+- HTML/CSS/JavaScript - https://github.com/riti2409/Resources_for_Web_Development 
 
-- 7. Operating system - https://lnkd.in/dqwJNefd
+- Operating system - https://github.com/riti2409/Operating_System 
 
-- 8. C++ STL - https://lnkd.in/dUXsz43B
+- DSA - https://github.com/riti2409/Complete_DSA
 
-- 9. CN - https://www.linkedin.com/feed/update/urn:li:activity:6904693012644147201/
+- C++ STL - https://github.com/riti2409/Cplus-plus-STL 
+
+- CN - https://www.linkedin.com/feed/update/urn:li:activity:6904693012644147201/
 
 ** Resources for preparation of placements-https://lnkd.in/d6zpHj4P **
